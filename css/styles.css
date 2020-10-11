@@ -1,0 +1,66 @@
+.title{
+    font-size: 20px !important;
+    left: -65px !important;
+}
+
+#folder{
+    left: 45px !important;
+}
+
+#menu1{
+    left: -20px !important;
+}
+
+.icono{
+    color: #363535;
+    font-size: 1.4em;
+}
+
+.panel-close{
+    text-align: left;
+}
+
+div.vertical-line{ 
+    width: 0.08px;  
+    background-color: #535151; 
+    height: 100%;  
+    display: inline-block;
+}
+
+.navbar{
+    height: 65px;
+}
+
+.menu, .icono-back{
+    color: white !important;
+    font-size: 1.8em;
+    left: 10px;
+}
+
+.barra-sup{
+    background-color: #00ABEC !important;
+    color: white;
+}
+
+.fondo-panel{
+    background-color: white;
+}
+
+.logo{
+    position:absolute;
+    top: 70px;
+    left : 50px;
+    width: 300px;
+    height: 100px;
+    z-index: 1;
+  }
+  
+.fondo{
+    position:absolute;
+    height:740px;
+    z-index: -1;
+} 
+
+.icono:active, .lista:active {
+    color:#00ABEC !important;
+}
